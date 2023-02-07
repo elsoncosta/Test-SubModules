@@ -1,0 +1,9 @@
+[submodule "Test-SubModules-Library"]
+	path = Test-SubModules-Library
+	url = https://github.com/elsoncosta/Test-SubModules-Library.git
+[submodule "src/Test-SubModules-Library"]
+	path = src/Test-SubModules-Library
+	url = https://github.com/elsoncosta/Test-SubModules-Library.git
+[submodule "src/Submodules/Test-SubModules-Library"]
+	path = src/Submodules/Test-SubModules-Library
+	url = https://github.com/elsoncosta/Test-SubModules-Library.git
