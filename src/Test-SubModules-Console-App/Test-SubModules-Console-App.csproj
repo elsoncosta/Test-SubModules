@@ -8,4 +8,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Submodules\Test-SubModules-Library\src\Test-SubModules-Library-Helpers\Test-SubModules-Library-Helpers.csproj" />
+  </ItemGroup>
 </Project>
